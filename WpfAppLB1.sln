@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppLB1", "WpfAppLB1\WpfAppLB1.csproj", "{BB76345F-1944-4B3C-9CBE-B6D64B8E469F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1LBConvert", "WpfApp1LBConvert\WpfApp1LBConvert.csproj", "{28078E8A-D478-4681-B32C-0B2ADD813807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB76345F-1944-4B3C-9CBE-B6D64B8E469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB76345F-1944-4B3C-9CBE-B6D64B8E469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB76345F-1944-4B3C-9CBE-B6D64B8E469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB76345F-1944-4B3C-9CBE-B6D64B8E469F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28078E8A-D478-4681-B32C-0B2ADD813807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28078E8A-D478-4681-B32C-0B2ADD813807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28078E8A-D478-4681-B32C-0B2ADD813807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28078E8A-D478-4681-B32C-0B2ADD813807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81633B0-FA38-4D7B-91B7-50FDBB1D9F66}
+	EndGlobalSection
+EndGlobal
